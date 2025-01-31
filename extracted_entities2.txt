@@ -1,0 +1,820 @@
+16 october 1995 -> DATE
+paragraphs2.1. to2.4 -> CARDINAL
+one -> CARDINAL
+m3 -> PRODUCT
+one or more -> CARDINAL
+one or more -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+one -> CARDINAL
+one or more -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+one or more -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+one -> CARDINAL
+one -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+two -> CARDINAL
+three -> CARDINAL
+one -> CARDINAL
+paragraphs7.9.,7.10.,7.19.,7.21. -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+two -> CARDINAL
+paragraphs7.11. -> CARDINAL
+only 98 per cent -> PERCENT
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+60 per cent -> PERCENT
+two -> CARDINAL
+15 mm -> QUANTITY
+60 per cent -> PERCENT
+two -> CARDINAL
+15 mm -> QUANTITY
+two -> CARDINAL
+three -> CARDINAL
+75 mm -> QUANTITY
+two -> CARDINAL
+at least4 m -> QUANTITY
+60 per cent -> PERCENT
+two -> CARDINAL
+two -> CARDINAL
+1986 -> DATE
+1931 -> DATE
+0,050 -> CARDINAL
+cie -> ORG
+vienna 1987 -> DATE
+second -> ORDINAL
+cie -> ORG
+paragraphs2.1. to2.4 -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+first -> ORDINAL
+06 -> DATE
+1958 -> DATE
+one -> CARDINAL
+1958 -> DATE
+paragraphs24.,24.1. -> CARDINAL
+paragraphs7.9.,7.10. -> CARDINAL
+and7.19. -> CARDINAL
+paragraphs24.,24.1. -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+class f3 -> PRODUCT
+one -> CARDINAL
+more than two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+15 mm -> QUANTITY
+75 mm -> QUANTITY
+25 m -> QUANTITY
+two -> CARDINAL
+1 m -> QUANTITY
+two -> CARDINAL
+-30 c to +50 c -> QUANTITY
+three seconds -> TIME
+afs -> AEBS_TECHNOLOGY
+paragraphs18.,19. and20. -> CARDINAL
+two -> CARDINAL
+. -> CARDINAL
+only one -> CARDINAL
+more than15 per cent -> PERCENT
+more than 50 per cent -> PERCENT
+more than 50 per cent -> PERCENT
+afs -> AEBS_TECHNOLOGY
+at least -> CARDINAL
+one -> CARDINAL
+6 volt -> QUANTITY
+12 volt -> QUANTITY
+28 v -> QUANTITY
+24 volt -> QUANTITY
+more than 3 per cent -> PERCENT
+less than 750 mm -> QUANTITY
+two -> CARDINAL
+four -> CARDINAL
+two -> CARDINAL
+four -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+no more than two -> CARDINAL
+at least one -> CARDINAL
+four -> CARDINAL
+. -> CARDINAL
+430,000 cd -> QUANTITY
+of6.1.9.2 -> CARDINAL
+less than 2 m -> QUANTITY
+between5 m -> QUANTITY
+at least 400 m -> QUANTITY
+at least 100 m -> QUANTITY
+at least 75 m -> QUANTITY
+150 cd -> QUANTITY
+10 cm 3 cm -> QUANTITY
+the type approval authority -> ORG
+paragraphs1.9.3.1.1. -> CARDINAL
+7000 lx -> QUANTITY
+the type approval authority -> ORG
+the type approval authority.2 -> ORG
+two -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+400 mm -> QUANTITY
+less than 1,300 mm.2.4.in -> QUANTITY
+500 mm -> QUANTITY
+1,200 mm -> QUANTITY
+1,500 mm.2.4.in -> QUANTITY
+secondary -> ORDINAL
+one -> CARDINAL
+between -1.0 per cent -> PERCENT
+between -1.5 per cent -> PERCENT
+1,200 mm -> QUANTITY
+-1.5 per cent and -3.5 per cent -> PERCENT
+between:-2 per cent and -2.5 per cent -> PERCENT
+paragraphs2.6.1.1. -> CARDINAL
+paragraphs2.6.2.1. -> CARDINAL
+annex6.2.6.3.2. -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+500 m -> QUANTITY
+the type approval authority.2.7.5 -> ORG
+daytime -> TIME
+two -> CARDINAL
+night -> TIME
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+2,000 lumen -> QUANTITY
+2,000 lumens -> QUANTITY
+more than one -> CARDINAL
+03 -> DATE
+more than 400 mm -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+more than 800 mm -> QUANTITY
+n3 -> PRODUCT
+more than 1,200 mm -> QUANTITY
+1,500 mm -> QUANTITY
+secondary -> ORDINAL
+one -> CARDINAL
+-1.5 per cent -> PERCENT
+2,000 lumens:3.6.1.2.1.1 -> QUANTITY
+one -> CARDINAL
+0 per cent -> PERCENT
+2,000 lumens:3.6.1.2.2.1 -> QUANTITY
+41 h 8 -> DATE
+between -1.0 per cent and -3.0 per cent -> PERCENT
+between -1.5 per cent and -2.0 per cent -> PERCENT
+between -1.5 per cent and -3.5 per cent -> PERCENT
+between -2.0 per cent and -2.5 per cent.3.6.1.2.2.2.
+the initial downward inclination of the cut-off to be set in the unladen vehicle state with one person -> PERCENT
+one -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+one -> CARDINAL
+second -> ORDINAL
+6,000 mm.4.2.2 -> QUANTITY
+two -> CARDINAL
+two -> CARDINAL
+6,000 mm -> QUANTITY
+less than 250 mm -> QUANTITY
+1,200 mm -> QUANTITY
+two -> CARDINAL
+paragraphs4.5.2. and4.6.2. -> CARDINAL
+one -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+10 km/h -> QUANTITY
+10 km -> QUANTITY
+1b -> CARDINAL
+2a -> CARDINAL
+2b -> CARDINAL
+two -> CARDINAL
+one -> CARDINAL
+40 mm -> QUANTITY
+44 1a -> CARDINAL
+one -> CARDINAL
+20 mm -> QUANTITY
+less than 40 mm -> QUANTITY
+one -> CARDINAL
+20 mm -> QUANTITY
+two -> CARDINAL
+2b -> CARDINAL
+two -> CARDINAL
+2a -> CARDINAL
+m2 -> PRODUCT
+m3 -> PRODUCT
+n2 -> PRODUCT
+n3 -> PRODUCT
+two -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+m2 -> PRODUCT
+m3 -> PRODUCT
+6 metres -> QUANTITY
+n2 -> PRODUCT
+n3 -> PRODUCT
+n1 -> PRODUCT
+m2 -> PRODUCT
+m3 -> PRODUCT
+6 metres -> QUANTITY
+three -> CARDINAL
+one -> CARDINAL
+m2 -> PRODUCT
+m3 -> PRODUCT
+n2 -> PRODUCT
+n3 -> PRODUCT
+9 m -> QUANTITY
+two -> CARDINAL
+two -> CARDINAL
+2a -> CARDINAL
+2b -> CARDINAL
+two -> CARDINAL
+2a -> CARDINAL
+2b -> CARDINAL
+three -> CARDINAL
+one -> CARDINAL
+9 m -> QUANTITY
+afs -> AEBS_TECHNOLOGY
+more than 400 mm -> QUANTITY
+two -> CARDINAL
+less than 600 mm -> QUANTITY
+400 mm -> QUANTITY
+1,300 mm.5.4.in -> QUANTITY
+less than: 350 mm -> QUANTITY
+500 mm -> QUANTITY
+more than: 1,500 mm -> QUANTITY
+less than 350 mm -> QUANTITY
+more than 1,500 mm.5.4.2.3. -> QUANTITY
+2,300 mm -> QUANTITY
+2,100 mm -> QUANTITY
+less than 600 mm -> QUANTITY
+1,800 mm -> QUANTITY
+2,500 mm -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+first -> ORDINAL
+750 mm -> QUANTITY
+2,100 mm -> QUANTITY
+80 m -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+50 m -> QUANTITY
+750 mm -> QUANTITY
+m1 -> PRODUCT
+50 m -> QUANTITY
+750 mm -> QUANTITY
+750 mm -> QUANTITY
+at least5 square centimetres -> QUANTITY
+one -> CARDINAL
+one -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+less than 6 m -> QUANTITY
+1b -> DATE
+2b -> CARDINAL
+one -> CARDINAL
+one and one-half seconds -> TIME
+first -> ORDINAL
+one -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+less than 6 m -> QUANTITY
+two -> CARDINAL
+one -> CARDINAL
+two -> CARDINAL
+m2 -> PRODUCT
+m3 -> PRODUCT
+n2 -> PRODUCT
+one -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+one -> CARDINAL
+more than 400 mm -> QUANTITY
+400 mm -> QUANTITY
+1,300 mm -> QUANTITY
+two -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+150 mm -> QUANTITY
+less than 350 mm -> QUANTITY
+more than 1,500 mm -> QUANTITY
+2,100 mm -> QUANTITY
+within 1,500 mm -> QUANTITY
+less than 600 mm -> QUANTITY
+more than 150 mm -> QUANTITY
+less than 850 mm -> QUANTITY
+s3 -> PRODUCT
+750 mm -> QUANTITY
+750 mm -> QUANTITY
+2,100 mm -> QUANTITY
+s3 -> PRODUCT
+s3 -> PRODUCT
+over 1,600 mm -> QUANTITY
+more than 1,600 mm -> QUANTITY
+more than 400 mm -> QUANTITY
+more than 150 mm -> QUANTITY
+two -> CARDINAL
+less than 600 mm -> QUANTITY
+400 mm -> QUANTITY
+1,300 mm.9.4.in height: above the ground, -> QUANTITY
+less than 250 mm -> QUANTITY
+more than 1,500 mm -> QUANTITY
+2,100 mm -> QUANTITY
+1,500 mm).9.4.in -> QUANTITY
+750 mm -> QUANTITY
+750 mm -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+750 mm -> QUANTITY
+750 mm -> QUANTITY
+at least5 cm2 -> QUANTITY
+one -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+two -> CARDINAL
+m3 -> PRODUCT
+more than 400 mm -> QUANTITY
+two -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+400 mm -> QUANTITY
+less than 350 mm -> QUANTITY
+more than 1,500 mm -> QUANTITY
+2,100 mm -> QUANTITY
+1,500 mm -> QUANTITY
+less than 600 mm -> QUANTITY
+750 mm -> QUANTITY
+750 mm -> QUANTITY
+2,100 mm -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+750 mm -> QUANTITY
+750 mm -> QUANTITY
+at least5 square centimetres -> QUANTITY
+one -> CARDINAL
+only one -> CARDINAL
+less than 250 mm -> QUANTITY
+more than 1,000 mm -> QUANTITY
+1,200 mm.11.4.in -> QUANTITY
+100 mm.12 -> QUANTITY
+6 m -> QUANTITY
+2 m -> QUANTITY
+two -> CARDINAL
+two -> CARDINAL
+one -> CARDINAL
+more than 400 mm -> QUANTITY
+two -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+less than 350 mm -> QUANTITY
+more than 1,500 mm -> QUANTITY
+2,100 mm -> QUANTITY
+1,500 mm -> QUANTITY
+750 mm -> QUANTITY
+750 mm -> QUANTITY
+between80 and10 m -> QUANTITY
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+more than 400 mm -> QUANTITY
+400 mm.13.5 -> QUANTITY
+one -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+less than 200 mm.14 -> QUANTITY
+two -> CARDINAL
+two -> CARDINAL
+more than 400 mm -> QUANTITY
+two -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+600 mm -> QUANTITY
+400 mm -> QUANTITY
+1,300 mm.14.4.in height: above -> QUANTITY
+less than 250 mm -> QUANTITY
+more than 900 mm -> QUANTITY
+more than 1,200 mm -> QUANTITY
+1,500 mm -> QUANTITY
+900 mm -> QUANTITY
+1200 mm -> QUANTITY
+750 mm -> QUANTITY
+two -> CARDINAL
+two -> CARDINAL
+more than 400 mm -> QUANTITY
+less than 600 mm -> QUANTITY
+400 mm -> QUANTITY
+1,300 mm.15.4.in height -> QUANTITY
+less than 250 mm -> QUANTITY
+more than 900 mm -> QUANTITY
+more than 1,200 mm -> QUANTITY
+900 mm -> QUANTITY
+1,200 mm -> QUANTITY
+750 mm -> QUANTITY
+two -> CARDINAL
+two -> CARDINAL
+more than 400 mm -> QUANTITY
+farther than 150 mm -> QUANTITY
+two -> CARDINAL
+m1 -> PRODUCT
+n1 -> PRODUCT
+less than 600 mm -> QUANTITY
+400 mm -> QUANTITY
+1,300 mm.16.4.in
+ -> QUANTITY
+less than 250 mm -> QUANTITY
+900 mm -> QUANTITY
+1,500 mm -> QUANTITY
+900
+mm).16.4.in -> QUANTITY
+750 mm -> QUANTITY
+6 m. -> QUANTITY
+6 m.17.2 -> QUANTITY
+two -> CARDINAL
+less than 250 mm -> QUANTITY
+more than 900 mm -> QUANTITY
+more than 1,200 mm -> QUANTITY
+1,500 mm -> QUANTITY
+900 mm -> QUANTITY
+1,200 mm -> QUANTITY
+at least one -> CARDINAL
+third -> ORDINAL
+further than 3 m -> QUANTITY
+two -> CARDINAL
+3 m. -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+4 m. -> QUANTITY
+1 m. -> QUANTITY
+6 m -> QUANTITY
+one -> CARDINAL
+first -> ORDINAL
+third -> ORDINAL
+third -> ORDINAL
+6 m -> QUANTITY
+one -> CARDINAL
+first -> ORDINAL
+third -> ORDINAL
+third -> ORDINAL
+m1 -> PRODUCT
+6 m -> QUANTITY
+7 m -> QUANTITY
+one -> CARDINAL
+further than 3 m -> QUANTITY
+third -> ORDINAL
+750 mm -> QUANTITY
+6 m -> QUANTITY
+sm1 -> PRODUCT
+sm2 -> PRODUCT
+m1 -> PRODUCT
+m1 -> PRODUCT
+n1 -> PRODUCT
+less than 6 m -> QUANTITY
+sm1 -> PRODUCT
+sm2 -> PRODUCT
+less than 250 mm -> QUANTITY
+more than 1,500 mm -> QUANTITY
+2,100 mm -> QUANTITY
+1,500
+mm).18.4.in -> QUANTITY
+third -> ORDINAL
+further than 3 m -> QUANTITY
+two -> CARDINAL
+3 m. -> QUANTITY
+4 m. -> QUANTITY
+1 m. -> QUANTITY
+6 m -> QUANTITY
+one -> CARDINAL
+first -> ORDINAL
+third -> ORDINAL
+third -> ORDINAL
+6 m -> QUANTITY
+7 m -> QUANTITY
+further than 3 m -> QUANTITY
+third -> ORDINAL
+paragraphs9.5.2. -> CARDINAL
+750 mm -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+less than 6 m -> QUANTITY
+less than 600 mm -> QUANTITY
+400 mm -> QUANTITY
+1,300 mm.19.4.in -> QUANTITY
+less than 250 mm -> QUANTITY
+more than 1,500 mm.19.4.in -> QUANTITY
+first -> ORDINAL
+10 km/h -> QUANTITY
+10 km/h -> QUANTITY
+more than 100 m -> QUANTITY
+18 months -> DATE
+less than 40 mm -> QUANTITY
+one -> CARDINAL
+further than 1,000 mm -> QUANTITY
+250 mm -> QUANTITY
+30 to 60 -> CARDINAL
+40 km/h.21 -> QUANTITY
+2,100 mm -> QUANTITY
+n3 -> PRODUCT
+o3 -> PRODUCT
+o4 -> PRODUCT
+6,000 mm -> QUANTITY
+paragraphs21.2. to21.7.5 -> CARDINAL
+at least one -> CARDINAL
+1,500 mm -> QUANTITY
+at least 70 per cent -> PERCENT
+600 mm -> QUANTITY
+2,400 mm -> QUANTITY
+25 cm2 -> QUANTITY
+one -> CARDINAL
+600 mm;21.4.2.1.2 -> QUANTITY
+at least 70 per cent -> PERCENT
+2,400 mm -> QUANTITY
+2,400 mm -> QUANTITY
+less than 250 mm -> QUANTITY
+more than 1,500 mm -> QUANTITY
+2,500 mm -> QUANTITY
+1,500 mm -> QUANTITY
+higher than 1,500 mm -> QUANTITY
+400 mm -> QUANTITY
+at least 70 per cent -> PERCENT
+50 per cent -> PERCENT
+the type approval authority -> ORG
+50 per cent -> PERCENT
+50 per cent -> PERCENT
+1,000 mm.21.7.2 -> QUANTITY
+two -> CARDINAL
+at least 250 mm -> QUANTITY
+200 mm.21.7.4
+ -> QUANTITY
+at least 60 mm -> QUANTITY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+one -> CARDINAL
+50 mm -> QUANTITY
+140 mm16 -> QUANTITY
+400 mm -> QUANTITY
+lower than 250 mm -> QUANTITY
+at least one -> CARDINAL
+more than 400 mm -> QUANTITY
+m1 -> PRODUCT
+n1 -> PRODUCT
+400 mm -> QUANTITY
+1,300 mm -> QUANTITY
+two -> CARDINAL
+200 mm -> QUANTITY
+afs -> AEBS_TECHNOLOGY
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+1,300 mm -> QUANTITY
+n1 -> PRODUCT
+afs -> AEBS_TECHNOLOGY
+at least one -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+one -> CARDINAL
+of1 per cent -> PERCENT
+at least one -> CARDINAL
+four -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+one -> CARDINAL
+60 km/h -> QUANTITY
+60 km/h -> QUANTITY
+1 cd -> QUANTITY
+10 lx -> QUANTITY
+50 km/h.22.7.4.3 -> QUANTITY
+60 km/h -> QUANTITY
+one -> CARDINAL
+110 km/h -> QUANTITY
+100 km/h -> QUANTITY
+e2 -> CARDINAL
+90 km/h -> QUANTITY
+80 km -> QUANTITY
+one -> CARDINAL
+at least two minutes.22.7.4.5 -> TIME
+ii -> CARDINAL
+one -> CARDINAL
+500 m -> QUANTITY
+afs -> AEBS_TECHNOLOGY
+paragraphs1.8. -> CARDINAL
+and2.8. -> CARDINAL
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+the type approval authority -> ORG
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+the type approval authority -> ORG
+7,000 lx -> QUANTITY
+the type approval authority -> ORG
+the type approval authority.22.9.4 -> ORG
+430,000 cd -> QUANTITY
+.23.3. -> CARDINAL
+50 km/h -> QUANTITY
+two -> CARDINAL
+one -> CARDINAL
+the type approval authority -> ORG
+10 m -> QUANTITY
+two -> CARDINAL
+10 m -> QUANTITY
+four -> CARDINAL
+1 m -> QUANTITY
+3 m -> QUANTITY
+.25.4. -> CARDINAL
+30 km/h -> QUANTITY
+30 km -> QUANTITY
+one -> CARDINAL
+two -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+first -> ORDINAL
+10 km/h -> QUANTITY
+the type approval authority -> ORG
+10 m -> QUANTITY
+10 m -> QUANTITY
+two -> CARDINAL
+10 m -> QUANTITY
+four -> CARDINAL
+1 m -> QUANTITY
+3 m -> QUANTITY
+1958 -> DATE
+the type approval authority -> ORG
+the type approval authority -> ORG
+the type approval authority -> ORG
+1958 -> DATE
+united nations -> GPE
+united nations -> GPE
+japan -> GPE
+japan -> GPE
+03 series -> DATE
+10 october 2007 -> DATE
+12 months -> DATE
+03 -> DATE
+up to 09 october 2009 -> DATE
+36 months -> DATE
+10 october 2009 -> DATE
+36 months -> DATE
+first -> ORDINAL
+2,100 mm -> QUANTITY
+6,000 mm -> QUANTITY
+10 october 2011 -> DATE
+60 months -> DATE
+2,100 mm -> QUANTITY
+6,000 mm -> QUANTITY
+12 june 2010 -> DATE
+36 months -> DATE
+03 -> DATE
+03 -> DATE
+up to 11 january 2010 -> DATE
+18 months -> DATE
+03 -> DATE
+up to 10 october 2011 -> DATE
+60 month -> DATE
+20 20 -> CARDINAL
+03 -> DATE
+893. -> CARDINAL
+04 -> DATE
+07 february 2011 -> DATE
+07 august 2012 -> DATE
+30 and 48 months -> DATE
+04 -> DATE
+22 july 2009 -> DATE
+04 -> DATE
+24 october 2012 -> DATE
+36 months -> DATE
+04 -> DATE
+up to 07 february 2011 -> DATE
+07 august 2012 -> DATE
+30 and 48 months -> DATE
+07 august 2008 -> DATE
+04 -> DATE
+04 -> DATE
+05 series -> DATE
+30 january 2015 -> DATE
+48 months -> DATE
+05 -> DATE
+30 july 2016 -> DATE
+30 january 2018 -> DATE
+66 and 84 months -> DATE
+one -> CARDINAL
+05 -> DATE
+06 series of amendments -> DATE
+18 november 2017 -> DATE
+60 month -> DATE
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+70 per cent -> PERCENT
+netherlands -> LOC
+06 -> DATE
+8 mm min -> QUANTITY
+netherlands -> LOC
+second -> ORDINAL
+one -> CARDINAL
+two -> CARDINAL
+7b -> CARDINAL
+15 15 15 15 -> DATE
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+first -> ORDINAL
+25 per cent -> PERCENT
+one -> CARDINAL
+one -> CARDINAL
+one -> CARDINAL
+1 per cent -> PERCENT
+m1 -> PRODUCT
+m1 -> PRODUCT
+at least 10 m.2 -> QUANTITY
+5 mrad -> QUANTITY
+05 per cent -> PERCENT
+5 mrad -> QUANTITY
+05 per cent -> PERCENT
+between 10 and 30 c.vehicle -> QUANTITY
+between 1,000 km and 10,000 km -> QUANTITY
+5,000 km.2 -> QUANTITY
+90 per cent -> PERCENT
+afs -> AEBS_TECHNOLOGY
+afs -> AEBS_TECHNOLOGY
+three -> CARDINAL
+three -> CARDINAL
+more than 2 mrad -> QUANTITY
+0.2 per cent -> PERCENT
+more than 2 mrad -> QUANTITY
+0.2 per cent -> PERCENT
+2 mrad -> QUANTITY
+02 per cent -> PERCENT
+at least three -> CARDINAL
+first -> ORDINAL
+m3 -> PRODUCT
+paragraphs4.2.2. -> CARDINAL
+4 mrad -> QUANTITY
+0.4 per cent -> PERCENT
+three -> CARDINAL
+three -> CARDINAL
+more than 2 mrad -> QUANTITY
+0.2 per cent -> PERCENT
+more than 2 mrad -> QUANTITY
+0.2 per cent -> PERCENT
+paragraphs5.3.1. -> CARDINAL
+only one -> CARDINAL
+five -> CARDINAL
+four -> CARDINAL
+to14. -> CARDINAL
+50 10 km -> QUANTITY
+100 20 km/h -> QUANTITY
+80 20 km -> QUANTITY
+10 per cent -> PERCENT
+20 per cent -> PERCENT
+70 per -> PERCENT
+> 2,000 m -> QUANTITY
+wmo -> ORG
+sixth -> ORDINAL
+1/9 -> CARDINAL
+geneva -> ORG
+1996 -> DATE
+two -> CARDINAL
+four or more -> CARDINAL
+more than 600 m. -> QUANTITY
+50 10km/h -> QUANTITY
+100 20km/h -> QUANTITY
+80 20km/h -> QUANTITY
+10 per cent -> PERCENT
+20 per cent -> PERCENT
+70 per cent -> PERCENT
+> 2,000 m -> QUANTITY
+wmo -> ORG
+sixth -> ORDINAL
+92-63-16008 -> CARDINAL
+1/9 -> CARDINAL
+1996 -> DATE
+two -> CARDINAL
+four or more -> CARDINAL
+more than 600 m. -> QUANTITY
+the type approval authority -> ORG
